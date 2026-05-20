@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @HodaLaabidi
-- 👀 I’m interested in Mobile developpment
-- 🌱 I’m currently learning Flutter framework
--    Contact me on WhatsApp +21650332556 or +21698157338
+I am an Android Developer focused on creating intuitive and responsive mobile experiences. I enjoy turning complex problems into simple, beautiful, and functional apps.
+•
+📱 Current Focus: Jetpack Compose & Material 3
+•
+🛠️ Tech Stack: Kotlin, MVVM, Retrofit, Coroutines
+

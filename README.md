@@ -6,5 +6,5 @@ I am an Android Developer focused on creating intuitive and responsive mobile ex
 
 
 •
-🛠️ Tech Stack: Kotlin, MVVM, Retrofit, Coroutines
+🛠️ Tech Stack: Kotlin, MVVM, Retrofit, Coroutines , ROOM , Hilt 
 
